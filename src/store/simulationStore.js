@@ -11,7 +11,7 @@ export const DEFAULT_PARAMS = {
   lunchAtOffice:     70,
   meetingAttendance: 4,
   cleanersOnSite:    2,
-  cleaningDuration:  15,
+  cleaningDuration:  30,
   restDuration:      30,
 };
 
